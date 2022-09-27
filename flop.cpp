@@ -4,6 +4,6 @@
 
 int main()
 {
-	cout<<"niggers";
+	cout<<"floppa was here";
 	return -1;
 }
